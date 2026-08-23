@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Unilog Product Intelligence</title>
+  <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">UI</div>
+        <div class="brand-text">
+          <div class="brand-title">Unilog</div>
+          <div class="brand-sub">Product Intelligence Compiler</div>
+        </div>
+      </div>
+      <nav class="nav" id="nav">
+        <button class="nav-item active" data-view="dashboard">Dashboard</button>
+        <button class="nav-item" data-view="enrichment">Product Enrichment</button>
+        <button class="nav-item" data-view="upload">Batch Upload</button>
+        <button class="nav-item" data-view="review">Review Queue</button>
+        <button class="nav-item" data-view="evidence">Evidence Explorer</button>
+        <button class="nav-item" data-view="evaluation">Evaluation</button>
+        <button class="nav-item" data-view="health">System Health</button>
+      </nav>
+      <div class="sidebar-footer">
+        <div class="mode-pill" id="mode-pill">mode: —</div>
+      </div>
+    </aside>
+    <main class="main">
+      <header class="topbar">
+        <div class="topbar-title" id="view-title">Dashboard</div>
+        <div class="topbar-run" id="run-indicator">No batch loaded</div>
+      </header>
+      <div class="view-container" id="view-container">
+        <!-- views injected by js/app.js -->
+      </div>
+    </main>
+  </div>
+  <script src="/js/app.js"></script>
+</body>
+</html>

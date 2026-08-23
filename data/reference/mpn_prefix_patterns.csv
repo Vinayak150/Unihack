@@ -1,0 +1,3 @@
+prefix,manufacturer_name,brand_name,confidence,notes
+PDSH,Rheem Manufacturing,FRIGIDAIRE®,confirmed,verified against ground_truth_delivery_format.csv row 1
+WDTS,Whirlpool Corporation,Whirlpool®,confirmed,verified against ground_truth_delivery_format.csv row 2

@@ -1,0 +1,58 @@
+{
+  "run_id": "cli-eval",
+  "total_rows": 1000,
+  "ground_truth_rows_matched": 2,
+  "field_accuracy": {
+    "MANUFACTURER_NAME": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "BRAND_NAME": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "Classpath": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "Dept": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "Class": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "Fine": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    "Product Name": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    }
+  },
+  "coverage": {
+    "manufacturer_resolution_rate": 0.961,
+    "classification_resolution_rate": 0.268,
+    "validation_pass_rate": 0.961,
+    "review_rate": 0.771,
+    "avg_confidence": 0.6757,
+    "groundedness_rate": 0.6949,
+    "lov_mismatch_count": 1
+  },
+  "status_counts": {
+    "PARTIAL": 229,
+    "UNRESOLVED": 704,
+    "VALIDATION_FAILED": 39,
+    "REVIEW_REQUIRED": 28
+  },
+  "errors": []
+}

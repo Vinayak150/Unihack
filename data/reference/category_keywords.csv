@@ -1,0 +1,12 @@
+Classpath,Leaf Node,Keywords
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,dishwasher|dishwashers
+Lighting & Electrical>Lighting Fixtures>Wall Lights,Wall Lights,wall lt|wall light|bath light|wall lights
+Lighting & Electrical>Lamps & Bulbs>LED Retrofit Lamps,LED Retrofit Lamps,led retro|led\b.*retro|retro.*led
+Lighting & Electrical>Lamps & Bulbs>Fluorescent Lamps,Fluorescent Lamps,flor\b|fluorescent|t12|t9\b|t8\b
+Lighting & Electrical>Wiring Devices>Outlets & Receptacles,Outlets & Receptacles,outlet|gfci|gfi\b|dimmer|receptacle
+Lighting & Electrical>Electrical Boxes & Covers>Box Covers,Box Covers,box cover|cover\b.*box|duplex box
+Appliances & Consumer Electronics>Heating Cooling & Air Quality>Ceiling Fans,Ceiling Fans,\bfan\b|ceiling fan
+Building Materials>Outdoor Living>Decking Boards,Decking Boards,decking|deck board
+Building Materials>Outdoor Living>Railing Systems,Railing Systems,rail\b|railing|baluster
+Tools & Equipment>Power Tool Accessories>Abrasive Discs,Abrasive Discs,sanding|abrasive|stikit|hiolit|abranet|sanding belt|sanding disc
+Tools & Equipment>Power Tool Accessories>Cut-Off Discs,Cut-Off Discs,cut.off disc|cut off disc|cutoff disc|metal cut

@@ -1,0 +1,43 @@
+measurement_type,canonical_uom,raw_variants,example
+Length,in,"inch|inches|IN.|IN|""|''",24 in
+Length,ft,foot|feet|FT.|FT|',6 ft
+Length,mm,millimeter|millimetre|MM,20 mm
+Length,cm,centimeter|centimetre|CM,15 cm
+Length,m,meter|metre|M,2 m
+Length,yd,yard|yards|YD,3 yd
+Length,mi,mile|miles|MI,1 mi
+Voltage,V,volt|volts|VOLT|VOLTS|VDC|VAC,120 V
+Current,A,amp|amps|ampere|amperes|AMP|AMPS,15 A
+Power,W,watt|watts|WATT|WATTS,60 W
+Power,kW,kilowatt|kilowatts|KW,1.5 kW
+Power,hp,horsepower|HP,2 hp
+Energy,kW-hr,kilowatt hour|kilowatt-hour|kwh|KWH,240 kW-hr
+Frequency,Hz,hertz|hz|cycles,60 Hz
+Weight,lb,pound|pounds|lbs|LB|LBS,5 lb
+Weight,oz,ounce|ounces|OZ,8 oz
+Weight,kg,kilogram|kilograms|KG,2 kg
+Weight,g,gram|grams|GM|G,500 g
+Volume,gal,gallon|gallons|GAL,5 gal
+Volume,qt,quart|quarts|QT,1 qt
+Volume,L,liter|litre|liters|litres|LTR,2 L
+Volume,ft³,cubic feet|cu ft|CF,1.5 ft³
+Pressure,psi,pounds per square inch|PSI,150 psi
+Pressure,#,pound rating|LB RATING|CLASS,150#
+Sound Level,dBA,decibel|decibels|dB|DB|DBA,47 dBA
+Temperature,°F,fahrenheit|deg F|degrees F,350 °F
+Temperature,°C,celsius|deg C|degrees C,180 °C
+Color Temperature,K,kelvin|color temp|CCT,3000K
+Luminous Flux,lm,lumen|lumens|LM,800 lm
+Rotational Speed,RPM,revolutions per minute|rpm,1750 RPM
+Time,hr,hour|hours|HR|HRS,12 hr
+Time,min,minute|minutes|MIN,30 min
+Time,sec,second|seconds|SEC,10 sec
+Thread Size,NPT,national pipe thread|npt,1/2 in NPT
+Grit,grit,GRIT|#grit,P150 grit
+Count,pc,piece|pieces|pcs|PC,6 pc
+Count,pk,pack|PK,50 disc/pk
+Count,bx,box|BX,1 bx
+Count,cs,case|CS,1 cs
+Count,ea,each|EA,1 ea
+Gauge,ga,gauge|GA|GAUGE,14 ga
+Wire Size,AWG,american wire gauge|awg,12 AWG

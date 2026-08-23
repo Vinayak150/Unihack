@@ -1,0 +1,15 @@
+metric,value
+manufacturer_resolution_rate,0.961
+classification_resolution_rate,0.268
+validation_pass_rate,0.961
+review_rate,0.771
+avg_confidence,0.6757
+groundedness_rate,0.6949
+lov_mismatch_count,1
+field_accuracy.MANUFACTURER_NAME,1.0
+field_accuracy.BRAND_NAME,1.0
+field_accuracy.Classpath,1.0
+field_accuracy.Dept,1.0
+field_accuracy.Class,1.0
+field_accuracy.Fine,1.0
+field_accuracy.Product Name,1.0

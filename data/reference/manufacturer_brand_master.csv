@@ -1,0 +1,93 @@
+MANUFACTURER_NAME,MANUFACTURER_CODE,BRAND_NAME,BRAND_CODE,MATCH_ALIASES,SOURCE
+3 M Co,5293,3 M Co,5293,3 m co,observed_input
+3M Company,,3M™,3M,3m,curated_seed
+A J Manufacturing Inc,AJMAN,A J Manufacturing Inc,AJMAN,a j manufacturing inc,observed_input
+ACG Brands,1154,ACG Brands,1154,acg brands,observed_input
+Amana Tool Corp,AMATO,Amana Tool Corp,AMATO,amana tool corp,observed_input
+Appliance Dealers Cooperative,APPDE,Appliance Dealers Cooperative,APPDE,appliance dealers cooperative,observed_input
+AZEK Building Products,,AZEK®,AZEK,azek,curated_seed
+Black & Decker/dewlt,2585,Black & Decker/dewlt,2585,black & decker/dewlt,observed_input
+Boise Cascade Building Materials,BOICA,Boise Cascade Building Materials,BOICA,boise cascade building materials,observed_input
+Bow Products,BOWPR,Bow Products,BOWPR,bow products,observed_input
+BSH Home Appliances,,Bosch®,BOSC,bosch,curated_seed
+Certainteed Gypsum,2765,Certainteed Gypsum,2765,certainteed gypsum,observed_input
+CMT USA Inc,CMTUS,CMT USA Inc,CMTUS,cmt usa inc,observed_input
+Cooper Lighting,7638,Cooper Lighting,7638,cooper lighting,observed_input
+Cooper Wiring Devices,3560,Cooper Wiring Devices,3560,cooper wiring devices,observed_input
+DEWALT Industrial Tool Co,,DEWALT®,DEWA,dewalt|dwlt|dwt,curated_seed
+Edge Eyewear Inc,,Edge®,EDGE,edge,curated_seed
+Emseal Joint Systems Ltd,EMSJO,Emseal Joint Systems Ltd,EMSJO,emseal joint systems ltd,observed_input
+Feit Electric,3468,Feit Electric,3468,feit electric,observed_input
+Fenton Bros Electric Inc,FENBR,Fenton Bros Electric Inc,FENBR,fenton bros electric inc,observed_input
+Festool USA,,Festool®,FEST,festool,curated_seed
+First Alert - B R K Brands,2754,First Alert - B R K Brands,2754,first alert - b r k brands,observed_input
+Freud Inc,,Diablo®,DIAB,diablo,curated_seed
+GE Appliances,,GE®,GE,ge|g.e.,curated_seed
+Hager Hinge Co,4189,Hager Hinge Co,4189,hager hinge co,observed_input
+Huber Eng Wood LLC,3158,Huber Eng Wood LLC,3158,huber eng wood llc,observed_input
+Hunter Fan Co,4381,Hunter Fan Co,4381,hunter fan co,observed_input
+Hunter Fan Company,,Hunter®,HUNT,hunter,curated_seed
+Irwin Industrial Tools,5863,Irwin Industrial Tools,5863,irwin industrial tools,observed_input
+J&G Machinery,JGMAC,J&G Machinery,JGMAC,j&g machinery,observed_input
+Jam Industrial Supply LLC,JAMIN,Jam Industrial Supply LLC,JAMIN,jam industrial supply llc,observed_input
+JPW Industries,JPWIN,JPW Industries,JPWIN,jpw industries,observed_input
+Keystone,5702,Keystone,5702,keystone,observed_input
+Kichler Lighting,,Kichler®,KICH,kichler,curated_seed
+King Canada Inc,KINCA,King Canada Inc,KINCA,king canada inc,observed_input
+Kreg Tool Company,,Kreg®,KREG,kreg,curated_seed
+Leviton Manufacturing Co,,Leviton®,LEVI,leviton,curated_seed
+Leviton Mfg Co,4927,Leviton Mfg Co,4927,leviton mfg co,observed_input
+LG Electronics,,LG®,LG,lg,curated_seed
+Lithonia Lighting,2776,Lithonia Lighting,2776,lithonia lighting,observed_input
+Makita U.S.A. Inc,,Makita®,MAKI,makita,curated_seed
+Makita Usa Inc,5142,Makita Usa Inc,5142,makita usa inc,observed_input
+Malco Prod,2370,Malco Prod,2370,malco prod,observed_input
+Marshalltown Trowel,5155,Marshalltown Trowel,5155,marshalltown trowel,observed_input
+Maxsa Innovations,MAXIN,Maxsa Innovations,MAXIN,maxsa innovations,observed_input
+Metalmark Industrial Inc,METIN,Metalmark Industrial Inc,METIN,metalmark industrial inc,observed_input
+MillerTech Energy Solutions,MILTE,MillerTech Energy Solutions,MILTE,millertech energy solutions,observed_input
+Milwaukee Accessory,4031,Milwaukee Accessory,4031,milwaukee accessory,observed_input
+Milwaukee Tool,,Milwaukee®,MILW,milw|milwaukee,curated_seed
+Mirka Abrasives Inc,,Mirka®,MIRK,mirka,curated_seed
+National Nail Corp,7439,National Nail Corp,7439,national nail corp,observed_input
+Ohio Firewatch Protection Inc,HOLFS,Ohio Firewatch Protection Inc,HOLFS,ohio firewatch protection inc,observed_input
+Oliver Machinery Company,OLIMA,Oliver Machinery Company,OLIMA,oliver machinery company,observed_input
+Palmer Donavin Mfg Company,PALDO,Palmer Donavin Mfg Company,PALDO,palmer donavin mfg company,observed_input
+Parksite,6151,Parksite,6151,parksite,observed_input
+Phillips Lighting,5831,Phillips Lighting,5831,phillips lighting,observed_input
+Police Security,9470,Police Security,9470,police security,observed_input
+Prebena,PREBE,Prebena,PREBE,prebena,observed_input
+Premier Metals,PREME,Premier Metals,PREME,premier metals,observed_input
+Prime Wire & Cable,3562,Prime Wire & Cable,3562,prime wire & cable,observed_input
+ProVia,PRODO,ProVia,PRODO,provia,observed_input
+Radians,7363,Radians,7363,radians,observed_input
+Rees Cast Stone Company,REECA,Rees Cast Stone Company,REECA,rees cast stone company,observed_input
+Rheem Manufacturing,,FRIGIDAIRE®,FRIG,frigidaire,ground_truth
+Robt Bosch Tool Corp,6564,Robt Bosch Tool Corp,6564,robt bosch tool corp,observed_input
+Sabre,9195,Sabre,9195,sabre,observed_input
+Samsung Electronics,,Samsung®,SAMS,samsung,curated_seed
+Satco Prod Inc,5573,Satco Prod Inc,5573,satco prod inc,observed_input
+Satco Products Inc,,Satco®,SATC,satco,curated_seed
+Saw Stop LLC,SAWST,Saw Stop LLC,SAWST,saw stop llc,observed_input
+Senco Products Inc,4650,Senco Products Inc,4650,senco products inc,observed_input
+Signify (Philips Lighting),,Philips®,PHIL,philips,curated_seed
+Southwire Company,,Southwire®,SWIR,southwire,curated_seed
+Southwire/g Turner,6603,Southwire/g Turner,6603,southwire/g turner,observed_input
+Square D Con Prod Dv,6825,Square D Con Prod Dv,6825,square d con prod dv,observed_input
+Streamlight,7277,Streamlight,7277,streamlight,observed_input
+Tech Gear 5.7 Inc,TECGE,Tech Gear 5.7 Inc,TECGE,tech gear 5.7 inc,observed_input
+Thomas & Betts,7405,Thomas & Betts,7405,thomas & betts,observed_input
+Trex Company,,Trex®,TREX,trex,curated_seed
+U S Lumber,3073,U S Lumber,3073,u s lumber,observed_input
+U S Tape Company,6694,U S Tape Company,6694,u s tape company,observed_input
+United Window & Door Manufacturing,UNIWI,United Window & Door Manufacturing,UNIWI,united window & door manufacturing,observed_input
+V & V Appliance Parts Inc,VVAPP,V & V Appliance Parts Inc,VVAPP,v & v appliance parts inc,observed_input
+Velux America Inc,VELAM,Velux America Inc,VELAM,velux america inc,observed_input
+Vessel Tools USA Inc,,Vessel®,VESS,vessel,curated_seed
+Wera Tools NA Inc,WERTO,Wera Tools NA Inc,WERTO,wera tools na inc,observed_input
+Westwood Lumber Sales,WESLU,Westwood Lumber Sales,WESLU,westwood lumber sales,observed_input
+Whirlpool Corporation,,Whirlpool®,WHRL,whirlpool,ground_truth
+Whiteside Machine & Repair Co,WHIMA,Whiteside Machine & Repair Co,WHIMA,whiteside machine & repair co,observed_input
+Woodpeckers Inc,WOODP,Woodpeckers Inc,WOODP,woodpeckers inc,observed_input
+Woods Wire Southwire,7579,Woods Wire Southwire,7579,woods wire southwire,observed_input
+Woodstock Intl,3658,Woodstock Intl,3658,woodstock intl,observed_input

@@ -1,0 +1,40 @@
+Classpath,Leaf Node,Attribute Label,Normalized Label,Data Type,UOM Type,Filtering,Keywords,Guidelines
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Series,Series,text,,Y,professional|eco|series,Marketing series name if present after brand
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Model,Model,text,,N,,Distinct from MPN when a separate model name exists
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Number of Wash Cycles,Number of Wash Cycles,numeric,,Y,wash cycle|cycles,Integer count of cycles
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Voltage Rating,Voltage Rating,numeric,Voltage,Y,v|volt|vac|vdc,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Amperage Rating,Amperage Rating,numeric,Current,Y,a|amp,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Mounting Type,Mounting Type,enum,,Y,leg|built-in|bltln|panel-ready,Leg|Built-in|Panel-Ready
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Plug Type,Plug Type,text,,N,,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Size,Size,text,Length,Y,h x w x d,Rendered as 'H x W x D' with each dimension normalized
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Depth With Door Open,Depth With Door Open,numeric,Length,N,depth with door open,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Minimum Height,Minimum Height,text,Length,N,min height|minimum height,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Maximum Height,Maximum Height,text,Length,N,max height|maximum height,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Sound Level,Sound Level,numeric,Sound Level,Y,dba|db|sound level|quiet,
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Material,Material,enum,,Y,ss|sst|stainless steel|black|white|bss,Stainless Steel|Black Stainless Steel|White|Black|Bisque
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Color,Color,enum,,Y,ss|sst|black|white|bss,Stainless Steel|Black Stainless Steel|White|Black|Bisque
+Appliances & Consumer Electronics>Kitchen Appliances>Built-In Dishwashers,Built-In Dishwashers,Additional Information,Additional Information,text,,N,,Free-text roll-up of remaining grounded claims
+Lighting & Electrical>Lighting Fixtures>Wall Lights,Wall Lights,Finish,Finish,enum,,Y,bk|black|br|bronze|wh|white|a\b,Black|Bronze|White|Antique
+Lighting & Electrical>Lighting Fixtures>Wall Lights,Wall Lights,Fixture Type,Fixture Type,enum,,Y,wall lt|wall light|bath light,Wall Light|Bath Light
+Lighting & Electrical>Lamps & Bulbs>LED Retrofit Lamps,LED Retrofit Lamps,Wattage,Wattage,numeric,Power,Y,w|watt,
+Lighting & Electrical>Lamps & Bulbs>LED Retrofit Lamps,LED Retrofit Lamps,Color Temperature,Color Temperature,numeric,Color Temperature,Y,k|27k|30k|50k|kelvin,
+Lighting & Electrical>Lamps & Bulbs>LED Retrofit Lamps,LED Retrofit Lamps,Length,Length,numeric,Length,Y,"""|in|ft|'",
+Lighting & Electrical>Lamps & Bulbs>Fluorescent Lamps,Fluorescent Lamps,Lamp Base/Type,Lamp Base/Type,enum,,Y,t12|t9|t8|flor,T8|T9|T12
+Lighting & Electrical>Wiring Devices>Outlets & Receptacles,Outlets & Receptacles,Amperage Rating,Amperage Rating,numeric,Current,Y,a|amp,
+Lighting & Electrical>Wiring Devices>Outlets & Receptacles,Outlets & Receptacles,Device Type,Device Type,enum,,Y,gfci|gfi|outlet|dimmer,GFCI Outlet|Outlet|Dimmer
+Lighting & Electrical>Wiring Devices>Outlets & Receptacles,Outlets & Receptacles,Color,Color,enum,,Y,wh|white|br|brown|blk|black,White|Brown|Black|Ivory
+Lighting & Electrical>Electrical Boxes & Covers>Box Covers,Box Covers,Gang Size,Gang Size,enum,,Y,1g|2g|single|double,1-Gang|2-Gang
+Appliances & Consumer Electronics>Heating Cooling & Air Quality>Ceiling Fans,Ceiling Fans,Blade Span,Blade Span,numeric,Length,Y,"""|in",
+Appliances & Consumer Electronics>Heating Cooling & Air Quality>Ceiling Fans,Ceiling Fans,Finish,Finish,enum,,Y,wh|white|bz|bronze|mb|matte black,White|Bronze|Matte Black
+Building Materials>Outdoor Living>Decking Boards,Decking Boards,Length,Length,numeric,Length,Y,'|ft,
+Building Materials>Outdoor Living>Decking Boards,Decking Boards,Nominal Width,Nominal Width,text,Length,Y,"x\d+""",
+Building Materials>Outdoor Living>Decking Boards,Decking Boards,Color,Color,text,,Y,walnut|coastline|biscayne,
+Building Materials>Outdoor Living>Railing Systems,Railing Systems,Length,Length,numeric,Length,Y,'|ft,
+Building Materials>Outdoor Living>Railing Systems,Railing Systems,Color,Color,enum,,Y,black|white|wh,Black|White
+Building Materials>Outdoor Living>Railing Systems,Railing Systems,Baluster Style,Baluster Style,enum,,Y,round|square|sq|rnd,Round|Square
+Tools & Equipment>Power Tool Accessories>Abrasive Discs,Abrasive Discs,Diameter,Diameter,numeric,Length,Y,"""|in",
+Tools & Equipment>Power Tool Accessories>Abrasive Discs,Abrasive Discs,Grit,Grit,text,Grit,Y,p\d+|grit,
+Tools & Equipment>Power Tool Accessories>Abrasive Discs,Abrasive Discs,Arbor/Bore Size,Arbor/Bore Size,text,Length,N,"x\d+/\d+""|bore",
+Tools & Equipment>Power Tool Accessories>Cut-Off Discs,Cut-Off Discs,Diameter,Diameter,numeric,Length,Y,"""|in",
+Tools & Equipment>Power Tool Accessories>Cut-Off Discs,Cut-Off Discs,Thickness,Thickness,text,Length,Y,"x\.\d+""|x\d+/\d+""",
+Tools & Equipment>Power Tool Accessories>Cut-Off Discs,Cut-Off Discs,Material Cut,Material Cut,enum,,Y,metal,Metal|Masonry|Wood
