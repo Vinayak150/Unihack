@@ -15,6 +15,18 @@ result. See `docs/architecture.md` for the full pipeline and
 `docs/design-decisions.md` for an honest account of what data this build
 did and didn't have access to.
 
+## Get a live public URL
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Vinayak150/Unihack)
+
+One click, free tier, no config beyond connecting your GitHub — Render
+builds `Dockerfile` and reads `render.yaml`. `APP_MODE=mock` ships as the
+default env var so the deployed instance works immediately with zero
+secrets; add `ANTHROPIC_API_KEY` in the Render dashboard afterward to
+switch it to `APP_MODE=claude`. Any other Docker-friendly host (Railway,
+Fly.io, a VPS) works the same way — `docker build -t unilog . && docker run
+-p 8000:8000 unilog`.
+
 ## Quickstart
 
 ```bash

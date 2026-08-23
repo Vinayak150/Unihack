@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: unilog-product-intelligence
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: APP_MODE
+        value: mock
+      - key: ANTHROPIC_API_KEY
+        sync: false
+    healthCheckPath: /api/health
